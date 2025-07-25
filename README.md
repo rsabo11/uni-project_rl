@@ -4,8 +4,9 @@ This project implements various trading agents and trains them with synthetic co
 
 ## Requirements
 
-- Python
-- pip
+- Python 3.13.3 (recommended)
+- pip (Python package installer)
+- Virtualenv (optional but recommended)
 
 ## Setup
 
